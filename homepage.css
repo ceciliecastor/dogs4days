@@ -1,0 +1,13 @@
+body{
+    margin: 0 auto;
+}
+
+header{
+    background-color: lightslategray;
+    width: 10em;
+}
+
+footer{
+    background-color: lightslategray;
+    width: 10em;
+}
